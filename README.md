@@ -31,7 +31,8 @@ Before you start, I need you to setup your environment first
  * The file wil be opened in a new page. 
  * Click the block you wanted to start in the file
  * Each time you finish the code inside a block and click "Run|>" to get to the next block.
- * When you are done, save the file as .html file (Click "File"-->"Save as"-->".html")
+## Step 6
+ * When you are done with your work, save the file as .html file (Click "File"-->"Save as"-->".html")
  * Press ctrl+C in the terminal to terminate the jupyter notebook.
  * Push both your notebook and html file to your repository and inform Ben to check on your work.
   
